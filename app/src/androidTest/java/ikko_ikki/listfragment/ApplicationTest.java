@@ -1,4 +1,4 @@
-package ikko_ikki.wall_app;
+package ikko_ikki.listfragment;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

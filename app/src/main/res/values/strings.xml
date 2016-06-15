@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">wall-app</string>
+    <string name="tab_1">Аналитика</string>
+    <string name="tab_2">Культура</string>
+    <string name="tab_3">Интервью</string>
+    <string name="tab_4">Блоги</string>
+    <string name="tab_5">Мероприятия</string>
 </resources>
