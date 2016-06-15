@@ -1,4 +1,4 @@
-package ikko_ikki.listfragment;
+package ikko_ikki.wall_app;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -10,8 +10,6 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import java.util.ArrayList;
-
-import ikko_ikki.wall_app.R;
 
 public class PartThreeFragment extends Fragment {
 

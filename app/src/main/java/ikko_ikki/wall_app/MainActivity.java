@@ -1,4 +1,4 @@
-package ikko_ikki.listfragment;
+package ikko_ikki.wall_app;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -19,8 +19,6 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-
-import ikko_ikki.wall_app.R;
 
 public class MainActivity extends AppCompatActivity {
 

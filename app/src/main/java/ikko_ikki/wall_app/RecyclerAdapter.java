@@ -1,4 +1,4 @@
-package ikko_ikki.listfragment;
+package ikko_ikki.wall_app;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,8 +8,6 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import java.util.List;
-
-import ikko_ikki.wall_app.R;
 
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 

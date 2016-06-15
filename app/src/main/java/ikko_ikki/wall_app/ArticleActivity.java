@@ -1,11 +1,9 @@
-package ikko_ikki.listfragment;
+package ikko_ikki.wall_app;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.webkit.WebView;
-
-import ikko_ikki.wall_app.R;
 
 public class ArticleActivity extends Activity {
 

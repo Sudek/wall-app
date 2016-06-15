@@ -1,10 +1,8 @@
-package ikko_ikki.listfragment;
+package ikko_ikki.wall_app;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.TextView;
-
-import ikko_ikki.wall_app.R;
 
 
 public class RecyclerItemViewHolder extends RecyclerView.ViewHolder {
